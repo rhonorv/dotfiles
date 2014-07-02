@@ -1,0 +1,11 @@
+[user]
+	name = Rachel Vincent
+	email = r.honorvincent@gmail.com
+[color]
+	ui = auto
+[credential]
+	helper = osxkeychain
+[hub]
+	protocol = https
+[core]
+	excludesfile = /Users/rhonorv/.gitignore_global
