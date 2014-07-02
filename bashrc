@@ -1,4 +1,4 @@
-export PATH=/usr/local/bin:/usr/local/sbin:$PATH
+export PATH=/Applications/Postgres.app/Contents/Versions/9.3/bin:/usr/local/bin:/usr/local/sbin:$PATH
 export EDITOR='subl -w'
 
 alias ll='ls -alhFG'
