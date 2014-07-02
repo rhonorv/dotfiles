@@ -9,3 +9,5 @@
 	protocol = https
 [core]
 	excludesfile = /Users/rhonorv/.gitignore_global
+[push]
+	default = simple
